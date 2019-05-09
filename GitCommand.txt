@@ -12,4 +12,4 @@ git reflog //the history of command
 
 git reset --hard commit_id // HEAD^ HEAD^^ HEAD~100
 
-
+//git tracks changes
