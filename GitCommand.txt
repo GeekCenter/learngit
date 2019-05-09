@@ -6,5 +6,10 @@ git status
 
 git diff file
 
-git log --pretty=oneline
+git log --pretty=oneline  //the history of commit
+
+git reflog //the history of command
+
+git reset --hard commit_id // HEAD^ HEAD^^ HEAD~100
+
 
