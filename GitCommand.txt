@@ -14,3 +14,10 @@ git reset --hard commit_id // HEAD^ HEAD^^ HEAD~100
 
 git diff HEAD -- file // the difference between work directory and repository
 //git tracks changes of file
+
+git checkout -- file 
+git reset HEAD file
+
+rm file->git rm file->git commit -m "message"  git checkout -- file
+
+
