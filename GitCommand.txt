@@ -2,4 +2,9 @@ git add file
 
 git commit -m "the message"
 
+git status 
+
+git diff file
+
+git log --pretty=oneline
 
